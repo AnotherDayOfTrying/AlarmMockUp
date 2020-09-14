@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "927847542084",
+    "firebase_url": "https://universal-alarm-cc220.firebaseio.com",
+    "project_id": "universal-alarm-cc220",
+    "storage_bucket": "universal-alarm-cc220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927847542084:android:caa49d7cdeace6777abb11",
+        "android_client_info": {
+          "package_name": "com.ijfh.universalalarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927847542084-djnu6b5dlo3un8shmgq9j9age9152tdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6hf2pPv72mD0P2c3cg8a710M05krbFbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927847542084-djnu6b5dlo3un8shmgq9j9age9152tdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

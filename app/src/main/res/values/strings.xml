@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Alarm Mock Up</string>
+    <string name="date">Date Goes Here...</string>
+    <string name="no_set_alarms">No Alarms Set</string>
+    <string name="alarm_title_hint">Alarm Title</string>
+    <string name="alarm_create">CREATE</string>
+    <string name="alarm_cancel">CANCEL</string>
+    <string name="alarm_set">SET</string>
+    <string name="turn_alarm_off">TURN OFF</string>
+    <string name="username_hint">Username</string>
+</resources>
